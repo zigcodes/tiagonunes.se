@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Zigcodes&#x27; Blog</title>
-    <link href="https://zigcodes.github.io/tiagonunes.se/feed.xml" rel="self" />
-    <link href="https://zigcodes.github.io/tiagonunes.se" />
+    <link href="https://tiagonunes.se/feed.xml" rel="self" />
+    <link href="https://tiagonunes.se" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Tiago Nunes</name>
     </author>
-    <id>https://zigcodes.github.io/tiagonunes.se</id>
+    <id>https://tiagonunes.se</id>
 
 </feed>

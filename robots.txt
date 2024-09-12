@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://zigcodes.github.io/tiagonunes.se/sitemap.xml
+Sitemap: https://tiagonunes.se/sitemap.xml
