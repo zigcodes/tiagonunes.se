@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zigcodes&#x27; Blog",
+    "description": "",
+    "home_page_url": "https://zigcodes.github.io/tiagonunes.se",
+    "feed_url": "https://zigcodes.github.io/tiagonunes.se/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tiago Nunes"
+    },
+    "items": [
+    ]
+}
