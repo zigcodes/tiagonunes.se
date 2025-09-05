@@ -9,5 +9,35 @@
         "name": "Tiago Nunes"
     },
     "items": [
+        {
+            "id": "https://tiagonunes.se/husmoderns-naer-var-hur.html",
+            "url": "https://tiagonunes.se/husmoderns-naer-var-hur.html",
+            "title": "Husmoderns: När - Var - Hur",
+            "summary": "I like to visit thrift stores. I like to go around and look or get things that you can no longer find anywhere because they are not made anymore, or those things that opena window into the past. This book was one of the cases&hellip;",
+            "content_html": "\n  <p>\n    I like to visit thrift stores. I like to go around and look or get things that you can no longer find anywhere because they are not made anymore, or those things that opena window into the past.\n  </p>\n\n  <p>\n    This book was one of the cases where I couldn't resist. It was a glimpse into the past, a witness of times gone.\n  </p>\n\n  <p>\n    Printed in 1950 to be a guide for the housewife, it includes a bit of everything, from nutritional information so the family is well fed and healthy, cleaning, cooking, preserving, etc.\n  </p>\n\n  <p>\n    I do not agree with the old housewife stereotype and role, but I understand that is how it was back then. That does not chance the fact that housewives were the keepers of invaluable knowledge, and probably the reason mankind as survived to this point without going back to being grunts in caves.\n  </p>\n\n  <p>\n    &nbsp; &nbsp; &nbsp;\n  </p>",
+            "author": {
+                "name": "Tiago Nunes"
+            },
+            "tags": [
+                   "Books"
+            ],
+            "date_published": "2024-09-12T22:33:52+02:00",
+            "date_modified": "2024-09-12T23:16:44+02:00"
+        },
+        {
+            "id": "https://tiagonunes.se/anise.html",
+            "url": "https://tiagonunes.se/anise.html",
+            "title": "Basilika",
+            "summary": "Ocimum basilicum",
+            "content_html": "\n  <p>\n    <i>Ocimum basilicum</i>\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Tiago Nunes"
+            },
+            "tags": [
+                   "Herbs"
+            ],
+            "date_published": "2024-09-12T21:09:46+02:00",
+            "date_modified": "2024-09-12T21:15:53+02:00"
+        }
     ]
 }

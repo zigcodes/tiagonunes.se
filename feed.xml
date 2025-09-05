@@ -3,10 +3,78 @@
     <title>Zigcodes&#x27; Blog</title>
     <link href="https://tiagonunes.se/feed.xml" rel="self" />
     <link href="https://tiagonunes.se" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2024-09-12T23:16:44+02:00</updated>
     <author>
         <name>Tiago Nunes</name>
     </author>
     <id>https://tiagonunes.se</id>
 
+    <entry>
+        <title>Husmoderns: När - Var - Hur</title>
+        <author>
+            <name>Tiago Nunes</name>
+        </author>
+        <link href="https://tiagonunes.se/husmoderns-naer-var-hur.html"/>
+        <id>https://tiagonunes.se/husmoderns-naer-var-hur.html</id>
+            <category term="Books"/>
+
+        <updated>2024-09-12T22:33:52+02:00</updated>
+            <summary>
+                <![CDATA[
+                    I like to visit thrift stores. I like to go around and look or get things that you can no longer find anywhere because they are not made anymore, or those things that opena window into the past. This book was one of the cases&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    I like to visit thrift stores. I like to go around and look or get things that you can no longer find anywhere because they are not made anymore, or those things that opena window into the past.
+  </p>
+
+  <p>
+    This book was one of the cases where I couldn't resist. It was a glimpse into the past, a witness of times gone.
+  </p>
+
+  <p>
+    Printed in 1950 to be a guide for the housewife, it includes a bit of everything, from nutritional information so the family is well fed and healthy, cleaning, cooking, preserving, etc.
+  </p>
+
+  <p>
+    I do not agree with the old housewife stereotype and role, but I understand that is how it was back then. That does not chance the fact that housewives were the keepers of invaluable knowledge, and probably the reason mankind as survived to this point without going back to being grunts in caves.
+  </p>
+
+  <p>
+    &nbsp; &nbsp; &nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Basilika</title>
+        <author>
+            <name>Tiago Nunes</name>
+        </author>
+        <link href="https://tiagonunes.se/anise.html"/>
+        <id>https://tiagonunes.se/anise.html</id>
+            <category term="Herbs"/>
+
+        <updated>2024-09-12T21:09:46+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Ocimum basilicum
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    <i>Ocimum basilicum</i>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
